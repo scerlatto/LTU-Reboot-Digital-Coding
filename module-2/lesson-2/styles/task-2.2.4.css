@@ -1,3 +1,19 @@
 /* Your code goes below here */
+p em {
+    font-size: 28px;
+  }
+  
+  p strong {
+    font-size: 32px;
+  }
 
+  ul em {
+      background-color: pink;
+      color: cyan;
+  }
+
+  ul strong {
+      font-size: 16px;
+      color: red;
+  }
 /* Your code goes above here */
