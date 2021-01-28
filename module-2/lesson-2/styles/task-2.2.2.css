@@ -1,3 +1,30 @@
 /* Your code goes below here */
-
+Strong {
+    color: #33d6e8;
+    background: #667358;
+}
+Em {
+    color: #db849a;
+}
+p {
+    color: #343434;
+    font-size: 24px;
+    border: 1px solid goldenrod;
+  }
+  
+  a {
+    color: green;
+    font-size: 28px;
+    border: 1px solid blue;
+  }
+  
+  ol, ul {
+    color: green;
+    border: 1px solid red;
+  }
+  
+  li {
+    color: purple;
+  }
+  
 /* Your code goes above here */
