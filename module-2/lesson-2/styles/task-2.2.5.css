@@ -3,13 +3,18 @@
     color: red;
   }
   
-  .font-blue {      /* This is a class */
-    color: blue;
-  }
-
+  
   .list-container {
       padding: 30px; 
       border-radius: 10px;
       background: yellow;
+  }
+
+  .paragraph-tag {
+    color: red;
+  }
+
+  .font-blue {      /* This is a class */
+    color: blue;
   }
 /* Your code goes above here */
