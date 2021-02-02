@@ -1,0 +1,13 @@
+span {
+    color: green;
+  }
+
+  #example-span {
+      background: black;
+      color: white;
+  }
+
+  .example-span {
+      background: purple;
+      color: yellow;
+  }
