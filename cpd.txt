@@ -27,3 +27,22 @@ What have I learnt?
 How did I use this in practice?
 
 What did I find hard?
+
+28/01/2021
+
+We reviewed HTML. We learned about the difference between CSS and HTML. We applied CSS to HTML code. We were introduced to learning about classes and IDs to add more specificity to our CSS. 
+
+
+02/02/2021
+
+This session we learned more about applying IDs and Classes to our code. We also learned about pseudo-classes. 
+
+We changed the colours of links and added IDs and classes to our code. 
+
+04/02/2021
+
+This session we learned about relative and absolute positions. We also learned about the box model as a way to position our content. 
+
+I used this in practice by completing various tasks that included adding an image to a web page and positioning text over the top of it. 
+
+I feel I will best gain a thorough understanding in this by practicing it in my own time.
