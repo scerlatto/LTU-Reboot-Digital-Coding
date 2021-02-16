@@ -18,4 +18,4 @@ else {
     console.log( 'just pants and a vest is fine');
 }
 
-//two variables are included with the inclusion of a logical operator. 
+//two variables are included with the inclusion of a logical operator.
