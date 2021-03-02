@@ -6,7 +6,7 @@ let paragraph3 = paragraphs[2];
 
 let logo = document.querySelector["img"];
     logo.setAttribute( "src", "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.i3T9XbkrRSnvM3kqiF04OgHaHa%26pid%3DApi&f=1");
-
+//above example changes the logo - needs fixing
 let courseList = document.querySelectorAll("li");
 
 let courseListItem2 = courseList[1]; //1 is the index number 
